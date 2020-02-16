@@ -1,0 +1,8 @@
+input:
+	220V
+	50Hz
+output:
+	0-30V
+	0-8A
+	OC-OV
+	CC-VC
