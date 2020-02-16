@@ -6,3 +6,8 @@ output:
 	0-8A
 	OC-OV
 	CC-VC
+
+visual:
+	TFT display: current info
+	4 buttons
+	etc..
